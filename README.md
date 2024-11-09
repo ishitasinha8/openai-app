@@ -26,5 +26,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ### Output
-![Screenshot of webpage](summify it.png)
+![Screenshot of webpage](/images/summify%20it.png)
+![Screenshot of output](/images/summify%20it%202.png)
 
